@@ -27,8 +27,6 @@
 
 <br />
 
-[![FINOS - Incubating](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-incubating.svg)](https://community.finos.org/docs/governance/Software-Projects/stages/incubating)
-
 **OpenGRIS Scaler provides a simple, efficient, and reliable way to perform distributed computing** using a centralized scheduler,
 with a stable and language-agnostic protocol for client and worker communications.
 
