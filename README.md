@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/finos">
-    <img src="https://github.com/finos.png" alt="Citi" width="80" height="80">
+    <img src="https://github.com/finos.png" alt="FINOS" width="80" height="80">
   </a>
 <h3 align="center">OpenGRIS Scaler</h3>
 
@@ -410,7 +410,7 @@ Copyright 2023 Citigroup, Inc.
 This project is distributed under the [Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0). See
 [`LICENSE`](./LICENSE) for more information.
 
-SPDX-License-Identifier: [Apache-2.0](https://spdx.org/licenses/Apache-2.0)
+SPDX-License-Identifier: [Apache-2.0](https://spdx.org/licenses/Apache-2.0).
 
 ## Contact
 
